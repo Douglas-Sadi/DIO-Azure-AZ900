@@ -5,7 +5,9 @@
 
 ## 1️⃣Primeiro Desafio: Localizando Serviços por Categoria 
 
-Seguindo as orientações da professora Valéria, é importante destacar que, por utilizarmos uma conta de exploração do tipo **"Free Tier"**, alguns serviços podem não estar disponíveis. Ainda assim, conseguimos explorar diversos recursos, como:
+Seguindo as orientações da professora Valéria, é importante destacar que, por utilizarmos uma conta de exploração do tipo **"Free Tier"**, alguns serviços podem não estar disponíveis. 
+
+Neste desafio, exploraremos alguns ajustes básicos, como:
 
 - 🌍 Idioma e Região  
 - 🎨 Aparência  
