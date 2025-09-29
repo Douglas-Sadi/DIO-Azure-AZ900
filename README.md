@@ -42,7 +42,6 @@ A professora Valéria também destacou a importância de se ter atenção aos se
 
 Portanto, é **fortemente recomendado não utilizá-los em ambientes de produção**.
 
----
 
 📘 *Este material foi produzido como parte do curso, baseando-se nas aulas da Professora Valéria:*
 
