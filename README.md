@@ -44,4 +44,6 @@ Portanto, é **fortemente recomendado não utilizá-los em ambientes de produç�
 
 ---
 
-📘 *Este material foi produzido como parte do curso, baseando-se nas aulas da Professora Valéria.*
+📘 *Este material foi produzido como parte do curso, baseando-se nas aulas da Professora Valéria:*
+
+![](/img/primeiro-desafio.gif)
