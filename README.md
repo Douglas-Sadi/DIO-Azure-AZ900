@@ -1,5 +1,5 @@
-# ⭐ DIO-Azure-AZ900 ⭐
-*<u>Repositório de atividades do bootcamp DIO Azure AZ900</u>*
+# ⭐ DIO Azure AZ-900 ⭐
+*<u>Repositório de atividades do bootcamp DIO Azure AZ-900</u>*
 
 
 
