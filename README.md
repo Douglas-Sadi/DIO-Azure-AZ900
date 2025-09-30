@@ -50,6 +50,8 @@ Portanto, é **fortemente recomendado não utilizá-los em ambientes de produç�
 ![](/img/primeiro-desafio.gif)
 
 
+
+
 ## 2️⃣Segundo Desafio: Criando uma Máquina Virtual 
 
 Por conta do tempo necessário para o provisionamento da máquina virtual, o procedimento será demonstrado por meio de imagens.
@@ -101,3 +103,47 @@ Exclusão da Máquina Virtual:
 ```
 
 ![](/img/segundo-desafio-06.png)
+
+
+
+## 2️⃣Terceiro Desafio: Criando uma Instância SQL no Azure
+
+```
+Implantação Concluída:
+```
+
+![](/img/terceiro-desafio-01.png)
+
+
+
+```
+Exceção no Firewall para conexão direta via cliente (apenas para testes - config não recomendada):
+```
+
+![](/img/terceiro-desafio-02.png)
+
+
+
+```
+Conexão via cliente DBeaver:
+```
+
+![](/img/terceiro-desafio-03.png)
+
+
+
+```
+Conectado via DBeaver:
+```
+
+![](/img/terceiro-desafio-04.png)
+
+
+
+```
+Exclusão do Recurso:
+```
+
+![](/img/terceiro-desafio-05.png)
+
+
