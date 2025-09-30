@@ -61,3 +61,43 @@ Criando Máquina Virtual:
 ```
 
 ![](/img/segundo-desafio-01.png)
+
+
+
+```
+Validação Aprovada:
+```
+
+![](/img/segundo-desafio-02.png)
+
+
+
+```
+Implantação Concluída:
+```
+
+![](/img/segundo-desafio-03.png)
+
+
+
+```
+Conexão via Azure CLI:
+```
+
+![](/img/segundo-desafio-04.png)
+
+
+
+```
+Conexão via Putty SSH:
+```
+
+![](/img/segundo-desafio-05.png)
+
+
+
+```
+Exclusão da Máquina Virtual:
+```
+
+![](/img/segundo-desafio-06.png)
