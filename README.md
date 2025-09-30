@@ -51,3 +51,13 @@ Portanto, é **fortemente recomendado não utilizá-los em ambientes de produç�
 
 
 ## 2️⃣Segundo Desafio: Criando uma Máquina Virtual 
+
+Por conta do tempo necessário para o provisionamento da máquina virtual, o procedimento será demonstrado por meio de imagens.
+
+Como a conta está no modo **Azure for Students**, será provisionada uma máquina virtual simples, com poucos recursos e executando o **Ubuntu Server**, apenas para fins de comprovação de conhecimento.
+
+```
+Criando Máquina Virtual:
+```
+
+![](/img/segundo-desafio-01.png)
