@@ -106,7 +106,7 @@ Exclusão da Máquina Virtual:
 
 
 
-## 2️⃣Terceiro Desafio: Criando uma Instância SQL no Azure
+## 3️⃣Terceiro Desafio: Criando uma Instância SQL no Azure
 
 ```
 Implantação Concluída:
